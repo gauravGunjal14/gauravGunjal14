@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Gunjal
 
-<!--
-**gauravGunjal14/gauravGunjal14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend Developer | React | JavaScript | Tailwind CSS  
+3rd-year BE IT student passionate about building fast, clean and responsive web applications.  
+I enjoy turning ideas into real-world products with modern frontend tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** JavaScript, HTML, CSS  
+- **Frontend:** React.js, Tailwind CSS  
+- **Tools:** Git, GitHub, VS Code, NPM  
+- **Other:** API Integration, Responsive Design  
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Swiggy Clone (React + Tailwind)
+- Restaurant listing, search, filters  
+- Dynamic routing and menu pages  
+- API integration with proxy setup  
+👉 **Live:** https://swiggy-clone-gauravgunjal14.netlify.app  
+👉 **Code:** https://github.com/gauravGunjal14/Swiggy-Clone  
+
+---
+
+### 🔹 E-Commerce Store (React)
+- Product listing, filters, cart  
+- Responsive UI  
+(Updating soon…)
+
+---
+
+### 🔹 Portfolio Website
+- Clean modern design  
+- Responsive layout  
+(Coming soon…)
+
+---
+
+## 📬 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/gaurav-gunjal14  
+- **Email:** gauravgunjal45@gmail.com
