@@ -14,6 +14,13 @@ I enjoy turning ideas into real-world products with modern frontend tools.
 
 ---
 
+### 🔹 Portfolio Website
+- Clean modern design  
+- Responsive layout  
+https://gauravgunjal.netlify.app/
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔹 Swiggy Clone (React + Tailwind)
@@ -29,13 +36,6 @@ I enjoy turning ideas into real-world products with modern frontend tools.
 - Product listing, filters, cart  
 - Responsive UI  
 (Updating soon…)
-
----
-
-### 🔹 Portfolio Website
-- Clean modern design  
-- Responsive layout  
-(Coming soon…)
 
 ---
 
