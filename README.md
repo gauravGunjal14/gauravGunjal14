@@ -6,7 +6,7 @@ I build full-stack products with a focus on thoughtful interfaces, reliable back
 
 Currently working across **React, Node.js, Express, MongoDB**, and modern web technologies — while exploring system design, application security, and scalable software architecture.
 
-[Portfolio](https://gaurav-gunjal-portfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/gaurav-gunjal14) · [Email](mailto:gauravgunjal45@gmail.com)
+[Portfolio](https://gauravgunjal.me) · [LinkedIn](https://www.linkedin.com/in/gaurav-gunjal14) · [Email](mailto:gauravgunjal45@gmail.com)
 
 ---
 
