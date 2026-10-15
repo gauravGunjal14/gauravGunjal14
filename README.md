@@ -148,7 +148,7 @@ Instead of only displaying the final output, Orion focuses on showing how an alg
 # Connect
 
 **Portfolio**  
-https://gaurav-gunjal-portfolio.vercel.app/
+https://gauravgunjal.me
 
 **LinkedIn**  
 https://www.linkedin.com/in/gaurav-gunjal14
