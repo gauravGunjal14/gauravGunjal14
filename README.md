@@ -31,4 +31,4 @@ I build full-stack web applications, from the interface to the backend. I'm a fi
 - 💼 LinkedIn: [linkedin.com/in/gaurav-gunjal14](https://www.linkedin.com/in/gaurav-gunjal14)
 - 📧 Email: [gauravgunjal45@gmail.com](mailto:gauravgunjal45@gmail.com)
 
-My best work is in the pinned repositories above.
+My best work is in the pinned below.
